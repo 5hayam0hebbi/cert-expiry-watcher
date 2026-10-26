@@ -1,0 +1,5 @@
+# Sites the daily check watches. One host per line; add :port for anything not on 443.
+github.com
+www.google.com
+www.wikipedia.org
+letsencrypt.org
